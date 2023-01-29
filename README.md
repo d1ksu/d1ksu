@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, My name is Michal
+Java
+Bukkit, MongoDB, MySQL, Nats
 
 <!--
 **d1ksu/d1ksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
